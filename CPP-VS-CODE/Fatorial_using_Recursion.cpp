@@ -15,7 +15,7 @@ else{
 
 
 int main(){
-clrscr();
+
 int n;
 cin>>n;
 int output = factorial(n);
